@@ -20,9 +20,9 @@ npx thongtv77
 -  🔭 I’m currently(and _constantly_) working on **my Personal Website**
 -  🌱 I’m currently learning **Gatsby.js** and **Serverless Architechture(BaaS)**
 -  👊🏼 I’m looking to collaborate on **any frontend project**
--  📝 I regularly write articles on [https://rahikhan.hashnode.dev/](https://rahikhan.hashnode.dev/)
+-  📝 I regularly write articles on [https://dev.to/thongtv77](https://dev.to/thongtv77)
 -  💬 Ask me about **React, Gatsby, UI/UX**
--  📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/Thongtv4lin) | [Linkedin](https://www.linkedin.com/in/thong-tran-49821518a/) |
+-  📫 How to reach me: <a href="mailto:thongtv96@gmail.com">Mail</a> | [Twitter](https://twitter.com/Thongtv4lin) | [Linkedin](https://www.linkedin.com/in/thong-tran-49821518a/) |
 -  ⚡ Fun fact **I stutter while talking**
 -  🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
 
