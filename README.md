@@ -22,7 +22,7 @@ npx thongtv77
 -  👊🏼 I’m looking to collaborate on **any frontend project**
 -  📝 I regularly write articles on [https://rahikhan.hashnode.dev/](https://rahikhan.hashnode.dev/)
 -  💬 Ask me about **React, Gatsby, UI/UX**
--  📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/rahikhan_dev) | [Linkedin](https://www.linkedin.com/in/rahikhan/) | [Instagram](https://www.instagram.com/_rahikhan_)
+-  📫 How to reach me: <a href="mailto:rahikhan360@gmail.com">Mail</a> | [Twitter](https://twitter.com/Thongtv4lin) | [Linkedin](https://www.linkedin.com/in/thong-tran-49821518a/) |
 -  ⚡ Fun fact **I stutter while talking**
 -  🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
 
@@ -180,8 +180,8 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 [discord]: https://discord.com/users/316244785621106691
 [instagram]: https://www.instagram.com/_rahikhan_
-[twitter]: https://twitter.com/rahikhan_dev
-[linkedin]: https://www.linkedin.com/in/rahikhan
+[twitter]: https://twitter.com/Thongtv4
+[linkedin]: https://www.linkedin.com/in/thong-tran-49821518a/
 [react]: https://reactjs.org
 [gatsby]: https://www.gatsbyjs.com
 [nextjs]: https://nextjs.org
