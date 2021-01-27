@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**thongtv77/thongtv77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h1 align="center"> Hey there, I'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
@@ -14,7 +10,7 @@ Here are some ideas to get you started:
 ```bash
 npx thongtv77
 ```
-#### 👆 This CLI can be found at [thongtv77/npx_card](https://github.com/rahi-khan/npx_card)
+#### 👆 This CLI can be found at [thongtv77/npx_card](https://github.com/thongtv77/npx_card)
 #### Check out my [blog post](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card) about this to create your own 🤟
 
 <br />
@@ -66,11 +62,7 @@ npx thongtv77
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 17, 18, 19, 20, 21 of #100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-17-18-19-20-21-of-100daysofcode)
-- [Day 10, 11, 12, 13, 14, 15, 16 of #100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-10-11-12-13-14-15-16-of-100daysofcode)
-- [Day 7, 8, 9 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-7-8-9-100daysofcode)
-- [Create a simple NPX business card](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card)
-- [Day 4, 5, 6 - 100DaysOfCode 🤖🦾](https://rahikhan.hashnode.dev/day-4-5-6-100daysofcode)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
