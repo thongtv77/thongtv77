@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<h1 align="center"> Hey there, I'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
+<h1 align="center"> Hey there, I'm Felix Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
-<h2 align="center"> I am a self taught <strong>Full Stack Web Developer</strong> from Tp.HCM, Viet Nam. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
+<h2 align="center"> I am Civil Engineering, self taught <strong>Full Stack Web Developer</strong> from Tp.HCM, Viet Nam. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
 
 #### 👇 Hit this in your terminal for a surprise
 
@@ -52,92 +52,6 @@ npx thongtv77
 </p>
 
 ---
-
-### 🎧 Spotify Playing 
-
-[![Spotify](https://novatorem69.vercel.app/api/spotify)](https://open.spotify.com/user/31k55taoamks4lwa3sryv5sh6n4y)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-![Metrics](https://github.com/rahi-khan/rahi-khan/blob/master/github-metrics.svg)
-
----
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454691%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 196 Contributions in the Year 2021
- > 
-> 📦 101.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-🌆 Daytime    70 commits     █████████░░░░░░░░░░░░░░░░   38.04% 
-🌃 Evening    49 commits     ██████░░░░░░░░░░░░░░░░░░░   26.63% 
-🌙 Night      58 commits     ████████░░░░░░░░░░░░░░░░░   31.52%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   20.65% 
-Wednesday    24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
-Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Sunday       59 commits     ████████░░░░░░░░░░░░░░░░░   32.07%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               19 repos            █████████████████░░░░░░░░   67.86% 
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rahi-khan/rahi-khan/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
----
-
-### Github stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahi-khan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rahi-khan" /></p>  
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rahi-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahi-khan&theme=radical" alt="rahi-khan" /></p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahikhan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
