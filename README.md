@@ -53,8 +53,6 @@ npx thongtv77
 
 ---
 
----
-
 ### Get in touch!
 
 I am open for collaborations, so if you find my work interesting feel free to hit me up! Even if you don't, hit me up anyway! Here is where you can find me:
@@ -84,4 +82,5 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 [visual studio code]: https://code.visualstudio.com
 [npm]: https://www.npmjs.com
 [figma]: https://www.figma.com/
+[nodejs]: https://nodejs.org/en/
 
