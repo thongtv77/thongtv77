@@ -1,32 +1,7 @@
 ### Hi there 👋
-
-
-<h1 align="center"> Hey there, I'm Felix Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
-
-<h2 align="center"> I am Civil Engineering, self taught <strong>Full Stack Web Developer</strong> from Tp.HCM, Viet Nam. I do a lot of things, and some of them you may even find interesting. 👨‍💻</h2>
-
-#### 👇 Hit this in your terminal for a surprise
-
-```bash
-npx thongtv77
-```
-#### 👆 This CLI can be found at [thongtv77/npx_card](https://github.com/thongtv77/npx_card)
-#### Check out my [blog post](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card) about this to create your own 🤟
+<h1 align="center"> Hey there, I'm Thong Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
 <br />
-
-### What do I do?
-
--  🔭 I’m currently(and _constantly_) working on **my Personal Website**
--  🌱 I’m currently learning **Gatsby.js** and **Serverless Architechture(BaaS)**
--  👊🏼 I’m looking to collaborate on **any frontend project**
--  📝 I regularly write articles on [https://dev.to/thongtv77](https://dev.to/thongtv77)
--  💬 Ask me about **React, Gatsby, UI/UX**
--  📫 How to reach me: <a href="mailto:thongtv96@gmail.com">Mail</a> | [Twitter](https://twitter.com/Thongtv4lin) | [Linkedin](https://www.linkedin.com/in/thong-tran-49821518a/) |
--  ⚡ Fun fact **I stutter while talking**
--  🥅 2021 Goals: Get a good grasp on **Gatsby**, **NextJS** and **Serverless Architechture(BaaS)**
-
----
 
 ### Languages and Tools I use:
 
