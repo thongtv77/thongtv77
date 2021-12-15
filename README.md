@@ -33,7 +33,7 @@ I am open for collaborations, so if you find my work interesting feel free to hi
 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1A91DA?logo=twitter&logoColor=white&style=for-the-badge" />][twitter]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />][instagram]
+
 
 
 
